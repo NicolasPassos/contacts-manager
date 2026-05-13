@@ -1,0 +1,19 @@
+{
+  "name": "mycontacts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "npx nodemon ./src/index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "uuidv4": "^6.2.13"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.2.1",
+    "globals": "^17.5.0",
+    "nodemon": "^3.1.14"
+  }
+}
