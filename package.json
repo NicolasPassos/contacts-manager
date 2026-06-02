@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "express": "^5.2.1",
+    "pg": "^8.21.0",
     "uuidv4": "^6.2.13"
   },
   "devDependencies": {
